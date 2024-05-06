@@ -1,5 +1,5 @@
 var index = 0; 
-var locations = ["Puertas","Puertas","Puertas","ventanas","ventanas","ventanas", "sillas/sillones", "sillas/sillones","muebles","muebles","muebles", "diseños especiales", "diseños especiales", "diseños especiales"]
+var locations = ["Nuestra familia","Regalito 1","Regalito 1","Regalito 3","Regalito 4","Regalito 5", "Regalito 6", "Regalito 7","Mi corazoncito","♥","♥", "Nosotros con mi suegrita", "Tu novio☻", "☻"]
 
 var slides = document.getElementsByClassName("slides"); 
 var nextArrow = document.getElementById("next");
